@@ -12,6 +12,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+        print("Hello, My World in bugFix branch!")
+        
+    }
+    
+    func bugFixFunc(){
+        print("Some actions in bugFix function")
     }
 
 
