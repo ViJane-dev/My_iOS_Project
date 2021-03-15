@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         
         print("Hello, My World in bugFix branch!")
         
+        print("My new changes before pull-request in View Controller")
+        
     }
     
     func bugFixFunc(){
