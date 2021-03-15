@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         
         print("My some changes in newFix branch before pull request in View Controller")
         
+        print("Another statement in my developing life for newFix")
+        
     }
     
     func bugFixFunc(){
